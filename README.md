@@ -1,2 +1,0 @@
-# openresty-doc
-openresty-doc
